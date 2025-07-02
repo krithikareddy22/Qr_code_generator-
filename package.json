@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "inquirer": "^12.7.0",
+    "qr-image": "^3.2.0"
+  },
+  "name": "bar-code-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Krithika Reddy Jakkula",
+  "license": "ISC",
+  "description": ""
+}
