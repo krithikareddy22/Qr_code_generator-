@@ -47,8 +47,9 @@ It allows users to input a URL, generate a QR code, and display it along with th
 
 ## 🛠️ Setup & Run
 
-bash
+```bash
 git clone https://github.com/krithikareddy22/Qr_code_generator-.git
 cd qr-code-generator
 npm install
 node index.js
+
