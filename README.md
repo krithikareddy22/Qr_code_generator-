@@ -32,6 +32,18 @@ It allows users to input a URL, generate a QR code, and display it along with th
   │ └── URL.txt # Auto-saved URL (ignored in Git) ``` </code></pre>
 
 
+## 🚀 Deployed on Render  
+👉 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://qr-code-generator-jz4o.onrender.com)
+
+---
+
+## 🔗 Live Demo  
+👉 [View the QR Generator Live](https://qr-code-generator-jz4o.onrender.com)
+
+---
+
+## 📸 Screenshot  
+![QR Generator Preview](public/assets/demo-preview.png)
 
 ## 🛠️ Setup & Run
 
