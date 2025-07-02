@@ -21,8 +21,7 @@ It allows users to input a URL, generate a QR code, and display it along with th
   ├── index.js # Node.js server logic (Express, QR generation) 
   ├── package.json # NPM project config (dependencies, scripts) 
   ├── package-lock.json # Exact versions of installed dependencies 
-  ├── .gitignore # Files to exclude from Git 
-  ├── README.md # Project description (this file) 
+  ├── .gitignore # Files to exclude from Git  
   ├── public/ # All static frontend files served to users 
   │ ├── index.html # Frontend UI with Bootstrap Grayscale theme 
   │ ├── css/ 
